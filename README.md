@@ -68,6 +68,7 @@
 
 ## 举例4：TangNano 20K驱动数码管(淘宝买的)
 这个数码管排针竟然是朝上的，太扯蛋了，搞的我们没有办法直接插到40PIN的扩展排母接口中，只能插灰排线。
+
 <img width="209" alt="image" src="https://github.com/minichao9901/fpga_verilog/assets/61445559/679a431f-dd26-46db-9ddf-6b804a3dc5c1">
 <img width="142" alt="image" src="https://github.com/minichao9901/fpga_verilog/assets/61445559/bcf39810-3f9d-4cf1-930f-bba7a79bba53">
 
