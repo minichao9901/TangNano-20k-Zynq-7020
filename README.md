@@ -48,8 +48,10 @@
 * 用的是我自己做的FPGA扩展板。将扩展板的fpc接口列在excel表里，再将模组的excel表列在excel表里一一对应，然后用excel的公式自动生成引脚约束文件，这样免去了手工抄写的繁琐和易错。
 * 电源/地，用跳线帽接好：如图所示4/5/25/36脚接GND，8/34/35接3V3
 * 如果用TangNano 20k驱动，使用如下引脚约束
+
 ![image](https://github.com/minichao9901/blog/assets/61445559/4201008f-ab2a-4f40-870a-96cf965fb49e)
 * 如果使用Z7-Nano驱动，使用如下引脚约束
+  
 <img width="741" alt="image" src="https://github.com/minichao9901/fpga_verilog/assets/61445559/a2db0af4-fc00-4451-b58b-6122a55aac0f">
 
 ###  效果图
