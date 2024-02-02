@@ -1,0 +1,6 @@
+//arch = zynq; split = false; format = BIN
+the_ROM_image:
+{
+	[bootloader]D:\FPGA\Z7-Nano\my_ps_lwip\my_ps_lwip.sdk\fsbl\Debug\fsbl.elf
+	D:\FPGA\Z7-Nano\my_ps_lwip\my_ps_lwip.sdk\udp_load_qspi\Debug\udp_load_qspi.elf
+}
