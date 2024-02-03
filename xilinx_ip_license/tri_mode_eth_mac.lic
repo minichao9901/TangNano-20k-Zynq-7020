@@ -1,0 +1,4 @@
+INCREMENT tri_mode_eth_mac xilinxd 2025.01 permanent uncounted \
+	BCE4C86624FE \
+	VENDOR_STRING=License_Type:Bought;something@my.door,tri_mode_eth_mac,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=TBE TS_OK
